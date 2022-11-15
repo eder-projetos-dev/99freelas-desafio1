@@ -17,7 +17,7 @@ Costumo vasculhar projetos no site 99freelas em busca de desafios interessantes.
 
 ## Descrição do Projeto
 
-O objetivo desse projeto é buscar processos publicados no arquivo XML da Revista da Propriedade Industrial. O script deverá recuperar os atributos das tags especificadas apenas dos processos listados no arquivo de texto `processos.txt` e posteriormente, salvar os resultados na planilha `processos.xlsx` que poderá ser editada no Microsoft Excel ou no LibreOffice Calc.
+O objetivo desse projeto é buscar processos publicados no arquivo [XML da Revista da Propriedade Industrial](http://revistas.inpi.gov.br/rpi/). O script deverá recuperar os atributos das tags especificadas apenas dos processos listados no arquivo de texto `processos.txt` e posteriormente, salvar os resultados na planilha `processos.xlsx` que poderá ser editada no Microsoft Excel ou no LibreOffice Calc.
 
 ## Funcionalidades
 
@@ -69,7 +69,7 @@ Informações adicionais:<br>
 
 Abrindo o projeto no IDLE:
 - Clique no menu `File`, `Open`;
-- Procure o local onde você salvou o projeto e selecione o arquivo `main.pyw`.
+- Procure o local onde você salvou o projeto e selecione o arquivo `main.py`.
 - Com o arquivo aberto, pressione a tecla <kbd>F5</kbd> ou vá no menu `Run` e em seguida `Run Module`. :heavy_check_mark:
 
 
