@@ -17,11 +17,11 @@ Costumo vasculhar projetos no site 99freelas em busca de desafios interessantes.
 
 ## Descrição do Projeto
 
-O objetivo desse projeto é buscar processos publicados no arquivo [XML da Revista da Propriedade Industrial](http://revistas.inpi.gov.br/rpi/). O script deverá recuperar os atributos das tags especificadas apenas dos processos listados no arquivo de texto `processos.txt` e posteriormente, salvar os resultados na planilha `processos.xlsx` que poderá ser editada no Microsoft Excel ou no LibreOffice Calc.
+Esse projeto cumpriu o objetivo de buscar os processos publicados no arquivo [XML da Revista da Propriedade Industrial](http://revistas.inpi.gov.br/rpi/). O script recupera os atributos das tags especificadas apenas dos processos listados no arquivo de texto `processos.txt` e salva os resultados na planilha `processos.xlsx` que pode ser editada no Microsoft Excel ou no LibreOffice Calc.
 
 ## Funcionalidades
 
-- `Funcionalidade 1`: Disponibiliza o arquivo `processos.txt` para o usuário informar a relação dos processos que pretende pesquisar. Em cada linha deverá constar um número diferente de processo.
+- `Funcionalidade 1`: Disponibiliza o arquivo `processos.txt` para o usuário informar a relação dos processos que pretende pesquisar. Em cada linha desse arquivo, deverá constar apenas um número diferente de processo.
 
 - `Funcionalidade 2`: Recupera do arquivo XML os atributos com o número do processo, titular, nome do despacho e o seu texto complementar.
 
